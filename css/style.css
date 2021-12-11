@@ -1,0 +1,119 @@
+body{
+    margin: 0;
+    color: #777;
+}
+.parallex-1{
+    /* background-color: black; */
+    background-image: url("https://media.istockphoto.com/photos/education-and-business-background-picture-id817972136?k=20&m=817972136&s=170667a&w=0&h=TEdeWG1YVrE9Dwmhxauhdh7pucxhWQV2W5BiHLKBkaM=");
+    min-height: 900px;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-attachment: fixed;
+    background-position: center;
+}
+.span{
+    background-color: #0c051a;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+}
+.button{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+.text-1{
+    text-align: center;
+    padding: 40px 40px;
+    font-size: 25px;
+}
+.parallex-2{
+    background-image: url("https://images.unsplash.com/photo-1497091071254-cc9b2ba7c48a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80");
+    min-height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+}
+.span2{
+    letter-spacing: 10px;
+    background-color: transparent;
+    font-size: 25px;
+    color: #f7f7f7;
+    text-align: center;
+}
+.button-2{
+    /* position: absolute; */
+    /* left: 0; */
+    /* top: 50%; */
+    /* width: 100%; */
+    text-align: center;
+    padding: 150px;
+    color: #000;
+}
+.parallex-3{
+    /* background-color: black; */
+    background-image: url("https://lh3.googleusercontent.com/proxy/YX4iNmdX_kEOw_MKwfrB_57d6n5ZFjge_eRNc83YuR2B70bWE2qeMoW5qb67KUa-WUjAgH0847bGCh4dVthQavl0ucp7w7pLLy7NiGP7eNJMzQlFaEhwhVM=s0-d");
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-attachment: fixed;
+    background-position: center;
+}
+.span3{
+    letter-spacing: 10px;
+    background-color: transparent;
+    font-size: 25px;
+    color: #f7f7f7;
+    text-align: center;
+}
+.button-3{
+    /* position: absolute; */
+    /* left: 0; */
+    /* top: 50%; */
+    /* width: 100%; */
+    text-align: center;
+    padding: 150px;
+    color: #000;
+}
+
+.parallex-4{
+    /* background-color: black; */
+    background-image: url("https://images.unsplash.com/photo-1528141603775-81fd11f61682?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fDElMkM1ODQlMjB4JTIwMzk2fGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+    min-height: 400px;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-attachment: fixed;
+    background-position: center;
+}
+.span4{
+    letter-spacing: 10px;
+    background-color: transparent;
+    font-size: 25px;
+    color: #f7f7f7;
+    text-align: center;
+}
+.button-4{
+    /* position: absolute; */
+    /* left: 0; */
+    /* top: 50%; */
+    /* width: 100%; */
+    text-align: center;
+    padding: 150px;
+    color: #000;
+}
+.footer{
+    background-color: #0c051a;
+    color: #fff;
+    height: 200px;
+    text-align: center;
+    /* padding-bottom: 50px; */
+}
+.btn{
+    margin: 50px;
+}
